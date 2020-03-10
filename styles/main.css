@@ -8,7 +8,6 @@ body {
 
 .antisnake {
   margin: 0 auto;
-  max-width: 1024px;
   display: grid;
   grid-template-columns: repeat(3, 1fr); }
   @media screen and (max-width: 899px) {
